@@ -1,2 +1,3 @@
 # Keystroke-logging-project
 Internship Project - Keystroke logging
+Keystroke logging, also known as keylogging, involves the process of recording keyboard inputs on a device. While often associated with malicious activities like unauthorized monitoring, it also has legitimate applications in cybersecurity, usability testing, and productivity analysis. By studying keystroke patterns, keylogging tools can help identify security vulnerabilities, detect unauthorized access attempts, and even enhance typing efficiency through data-driven insights. Ethical use of keylogging ensures compliance with privacy laws and transparency with users.
